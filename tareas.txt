@@ -1,0 +1,32 @@
+var mes = 10;
+var mes = 1;
+var mes = 2;
+var mes = 3;
+var mes = 5;
+var mes = 6;
+var mes = 8;
+var mes = 9;
+var mes = 11;
+var mes = 12;
+
+alert("Vamos a validar las estaciones del mes segun el numero")
+mes = prompt("Valida los numeros 1, 2 y 12")
+for (mes <= 1; mes <=2; mes <= 12){
+  alert("Es Invierno");
+} if (mes = 5){
+  console.log(mes)
+alert("Prueba de nuevo")
+prompt("Valida los numeros 3 y 5")
+  alert("Es Primavera")
+    console.log(mes)
+alert("Prueba de nuevo")
+prompt("Valida los numeros 6 y 8")
+  alert("Es Verano")
+  console.log(mes)
+alert("Prueba de nuevo")
+prompt("Valida los numeros 9 y 11")
+  alert("Es Otoño")
+
+  console.log()
+   alert("CARNE: 22000853 NOMBRE: MANFREDI ANTONIO GARCIA RODRIGUEZ")
+}
